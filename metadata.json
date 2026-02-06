@@ -1,0 +1,7 @@
+{
+  "name": "Zosh Communications - Premium Event Management",
+  "description": "Bangladesh's premier event management and production company, specializing in corporate, entertainment, and personal events in Dhaka.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
